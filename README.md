@@ -1,1 +1,2 @@
-# Udemy-Dev-Web-HTML-CSS
+# Projet de développement d'une page web
+Via la plateforme d'enseignement Udemy
